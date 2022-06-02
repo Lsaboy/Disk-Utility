@@ -4,16 +4,7 @@
     <projectFile>Disk Utility.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc99a7e-a4f7-4219-9e48-0c6792803212" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Disk Utility/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Disk Utility/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Disk Utility/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Disk Utility/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Disk Utility.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Disk Utility.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="4dc99a7e-a4f7-4219-9e48-0c6792803212" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +62,16 @@
       <option name="presentableId" value="Default" />
       <updated>1653932797163</updated>
       <workItem from="1653932811984" duration="12210000" />
+      <workItem from="1654169460077" duration="47000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1654169487328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654169487328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +93,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
